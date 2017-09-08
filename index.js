@@ -35,7 +35,8 @@ const data = [
     'The first virus identified was Tobacco Mosaic Virus in the 1980s',
     'The first human virus identified was Yellow Fever Virus in 1901',
     'There is no vaccine against the common cold as the cold is caused by many different viruses',
-    'You can’t see viruses under a regular light microscope'];
+    'You can’t see viruses under a regular light microscope'
+];
 
 
 const handlers = {
